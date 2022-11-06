@@ -1,0 +1,30 @@
+{
+  "global": {
+    "sm": {
+      "value": "16",
+      "type": "sizing",
+      "description": "font size sm = 16px"
+    },
+    "md": {
+      "value": "18",
+      "type": "sizing",
+      "description": "font size md = 18\n"
+    },
+    "spacing-sm": {
+      "value": "16",
+      "type": "spacing",
+      "description": "spacing sm = 16px"
+    },
+    "spacing-md": {
+      "value": "18",
+      "type": "spacing",
+      "description": "spacing-md = 18px"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
+  }
+}
