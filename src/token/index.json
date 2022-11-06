@@ -19,6 +19,10 @@
       "value": "18",
       "type": "spacing",
       "description": "spacing-md = 18px"
+    },
+    "primary": {
+      "value": "#15ff01",
+      "type": "color"
     }
   },
   "$themes": [],
